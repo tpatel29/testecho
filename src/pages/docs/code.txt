@@ -1,0 +1,10 @@
+<div>
+    <h1>Docs</h1>
+    <div >
+        <pre style={{background:"black", color:"white", width:"50%" ,border:"white 5px solid", borderRadius:"20px"}} >
+            <div>
+                <h1>Here</h1>
+            </div>
+        </pre>
+    </div>
+</div>

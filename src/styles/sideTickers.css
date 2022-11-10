@@ -1,0 +1,32 @@
+div.absolute {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: #00ffd5;
+    width: 20%;
+    height: 5%;
+}
+div.innerabsolute {
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    background: mediumpurple;
+    width: 14%;
+    height: 5%;
+}
+div.absolute1{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: mediumpurple;
+    width: 20%;
+    height: 5%;
+}
+div.innerabsolute1 {
+    position: absolute;
+    bottom: 3%;
+    left: 3%;
+    background: #00ffd5;
+    width: 14%;
+    height: 5%;
+}
